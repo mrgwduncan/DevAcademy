@@ -1,7 +1,0 @@
-git commands 
-git init 
-git add file // adds file to index 
-git status // checks status of working directory
-git commit // commits changes to index
-git push // push to remote repoo
-git pull // ppulls latest from remote repo
